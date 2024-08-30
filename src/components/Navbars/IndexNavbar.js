@@ -71,7 +71,7 @@ function IndexNavbar() {
             target="_blank"
             title="Coded by Creative Tim"
           >
-            Mis pasteles by Arantza Alarcon
+            Los Dulces de Arantza 
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
@@ -112,15 +112,7 @@ function IndexNavbar() {
                 <i className="fa fa-instagram" />
                 <p className="d-lg-none">Instagram</p>
               </NavLink>
-            </NavItem>          
-            <NavItem>
-              <NavLink
-                href="https://demos.creative-tim.com/paper-kit-react/#/documentation?ref=pkr-index-navbar"
-                target="_blank"
-              >
-                <i className="nc-icon nc-book-bookmark" /> Documentation
-              </NavLink>
-            </NavItem>
+            </NavItem>                      
             <NavItem>
               <Button
                 className="btn-round"
@@ -128,7 +120,7 @@ function IndexNavbar() {
                 href="https://www.creative-tim.com/product/paper-kit-pro-react?ref=pkr-index-navbar"
                 target="_blank"
               >
-                <i className="nc-icon nc-spaceship"></i> Upgrade to Pro
+                <i className="nc-icon nc-cart-simple"></i> Programa tu pedido
               </Button>
             </NavItem>
           </Nav>
