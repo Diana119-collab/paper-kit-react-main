@@ -67,7 +67,7 @@ function IndexNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            href="/index"
+            //href="/index"
             target="_blank"
             title="Coded by Creative Tim"
           >
@@ -78,7 +78,7 @@ function IndexNavbar() {
             className={classnames("navbar-toggler navbar-toggler", {
               toggled: navbarCollapse,
             })}
-            //onClick={toggleNavbarCollapse}
+            onClick={toggleNavbarCollapse}
           >
             <span className="navbar-toggler-bar bar1" />
             <span className="navbar-toggler-bar bar2" />
