@@ -78,7 +78,7 @@ function IndexNavbar() {
             className={classnames("navbar-toggler navbar-toggler", {
               toggled: navbarCollapse,
             })}
-            onClick={toggleNavbarCollapse}
+            //onClick={toggleNavbarCollapse}
           >
             <span className="navbar-toggler-bar bar1" />
             <span className="navbar-toggler-bar bar2" />
