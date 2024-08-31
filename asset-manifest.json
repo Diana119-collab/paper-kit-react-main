@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/paper-kit-react-main/build/static/css/main.1cbf841d.css",
-    "main.js": "/paper-kit-react-main/build/static/js/main.53d6100f.js",
+    "main.js": "/paper-kit-react-main/build/static/js/main.aa5a198a.js",
+    "static/media/bocaditos.png": "/paper-kit-react-main/build/static/media/bocaditos.a3c15397affd56f04566.png",
     "static/media/postre.png": "/paper-kit-react-main/build/static/media/postre.2207f6c8ed9ad2ae32a7.png",
+    "static/media/postresImg.png": "/paper-kit-react-main/build/static/media/postresImg.9702b590f7d38863f7c8.png",
+    "static/media/postresImg3.png": "/paper-kit-react-main/build/static/media/postresImg3.d407ef1b82736d8fa6a9.png",
     "static/media/clouds.png": "/paper-kit-react-main/build/static/media/clouds.3c700c1313cc1cd3d3c5.png",
+    "static/media/postresImg2.png": "/paper-kit-react-main/build/static/media/postresImg2.3f1d69d8165fb075df54.png",
     "static/media/login-image.jpg": "/paper-kit-react-main/build/static/media/login-image.21e8ba3f9dca3c346851.jpg",
     "static/media/joshua-stannard.jpg": "/paper-kit-react-main/build/static/media/joshua-stannard.a16f281cc99a02795dd7.jpg",
     "static/media/soroush-karimi.jpg": "/paper-kit-react-main/build/static/media/soroush-karimi.620dc9e92af6bac885fe.jpg",
     "static/media/ilya-yakover.jpg": "/paper-kit-react-main/build/static/media/ilya-yakover.751c23c0dc4ff39577cf.jpg",
     "static/media/federico-beccari.jpg": "/paper-kit-react-main/build/static/media/federico-beccari.ab3a31e7758f490adca7.jpg",
-    "static/media/fabio-mangione.jpg": "/paper-kit-react-main/build/static/media/fabio-mangione.488bc249dffdae3556c6.jpg",
     "static/media/uriel-soberanes.jpg": "/paper-kit-react-main/build/static/media/uriel-soberanes.b741f54e9ccbd071a751.jpg",
     "static/media/fog-low.png": "/paper-kit-react-main/build/static/media/fog-low.965eab52c95e117d1d45.png",
-    "static/media/daniel-olahh.jpg": "/paper-kit-react-main/build/static/media/daniel-olahh.77c0ffac60f9218de675.jpg",
     "static/media/profile-page.png": "/paper-kit-react-main/build/static/media/profile-page.3a626caf205d1143f192.png",
     "static/media/landing-page.png": "/paper-kit-react-main/build/static/media/landing-page.80158096b63fb4a837e1.png",
-    "static/media/clem-onojeghuo-2.jpg": "/paper-kit-react-main/build/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
-    "static/media/ayo-ogunseinde-2.jpg": "/paper-kit-react-main/build/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
     "static/media/joe-gardner-2.jpg": "/paper-kit-react-main/build/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
-    "static/media/clem-onojeghuo-3.jpg": "/paper-kit-react-main/build/static/media/clem-onojeghuo-3.83003f446b7372176b72.jpg",
     "static/media/kaci-baum-2.jpg": "/paper-kit-react-main/build/static/media/kaci-baum-2.9b929eea6c1ef2b4dbb4.jpg",
     "static/media/erik-lucatero-2.jpg": "/paper-kit-react-main/build/static/media/erik-lucatero-2.d09715abe0463c58d6be.jpg",
     "static/media/nucleo-icons.eot": "/paper-kit-react-main/build/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
@@ -29,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.1cbf841d.css",
-    "static/js/main.53d6100f.js"
+    "static/js/main.aa5a198a.js"
   ]
 }
